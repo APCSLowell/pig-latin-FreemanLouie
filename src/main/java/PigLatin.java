@@ -59,3 +59,4 @@ public class PigLatin {
     return sWord.substring(1,sWord.length()) + sWord.substring(0,1) + "ay";	    
   }
 }//end PigLatin class
+}
