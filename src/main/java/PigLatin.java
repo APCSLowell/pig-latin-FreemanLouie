@@ -57,7 +57,7 @@ public String pigLatin(String sWord)
   }
   else 
   {
-    return sWord.substring(1,sWord.length()) + sWord.substring(0,1) + "ay";
+    return sWord.substring(2,sWord.length()) + sWord.substring(0,2) + "ay";
   }
 }
 }
